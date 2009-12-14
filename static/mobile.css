@@ -1,0 +1,7 @@
+body { margin: 0; }
+#who {display:none}
+#intro {display:none}
+table#twit_table td {border-top: 1px solid #bbb; border-bottom: 1px solid #bbb; padding: 1px; vertical-align: middle}
+input, td {
+    -webkit-text-size-adjust: 140%;
+}
